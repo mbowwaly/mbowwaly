@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//EN
+REV:2014-02-05 06:25:28
+FN:John Doe
+N:Doe;John;;;
+ORG:Best company
+ADR;TYPE=work:;;Some street;Moscow;;;
+EMAIL;TYPE=internet,pref:mail@mysite.com
+TEL;TYPE=work,voice:111 22 33
+TEL;TYPE=cell,voice:444 55 66
+TZ:+0000
+END:VCARD
